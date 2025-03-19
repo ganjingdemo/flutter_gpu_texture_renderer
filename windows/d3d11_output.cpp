@@ -1,5 +1,7 @@
 #include "d3d11_output.h"
 
+#include <chrono>
+
 #pragma comment(lib, "dxgi.lib")
 #pragma comment(lib, "d3d11.lib")
 
